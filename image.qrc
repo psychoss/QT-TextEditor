@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/ic_folder_open.png</file>
+        <file>images/ic_format_indent_increase.png</file>
+        <file>images/ic_insert_link.png</file>
+        <file>images/ic_wallpaper.png</file>
+        <file>images/ic_format_bold.png</file>
+        <file>images/ic_save.png</file>
+        <file>images/ic_insert_drive_file.png</file>
+        <file>images/ic_send.png</file>
+        <file>images/ic_format_list_bulleted.png</file>
+        <file>images/ic_remove.png</file>
+        <file>images/ic_content_copy.png</file>
+        <file>images/ic_content_cut.png</file>
+        <file>images/ic_content_paste.png</file>
+        <file>images/ic_redo.png</file>
+        <file>images/ic_select_all.png</file>
+        <file>images/ic_toys.png</file>
+        <file>images/ic_undo.png</file>
+    </qresource>
+</RCC>
